@@ -1,0 +1,3 @@
+- Nos colaboradores, adaptar os tipos cpf, id e data da carga das variáveis para o tipo correto
+- nas previsoes, mudar as datas para o tipo correto
+- No colab/Cert, tirar nulos
